@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mamogh
+- 👋 Hi, I’m Martin
 <!---
 
 - 👀 I’m interested in ...
