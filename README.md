@@ -1,4 +1,7 @@
 - 👋 Hi, I’m Martin
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mamogh&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 <!---
 
 - 👀 I’m interested in ...
